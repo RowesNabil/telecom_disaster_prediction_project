@@ -1,0 +1,2 @@
+model_name,auc,threshold,precision_risk,recall_risk,horizon_hours,total_records_trained
+XGBoost (Tuned),0.7671,0.358,0.64,0.57,2,84091

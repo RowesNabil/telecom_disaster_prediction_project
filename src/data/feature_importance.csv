@@ -1,0 +1,11 @@
+feature,importance
+risk_score,0.14079835
+smoke_level,0.10542438
+humidity_mean,0.052143287
+smoke_level_pct_of_max_seen,0.041642684
+temp_mean,0.03484848
+smoke_level_roll_max_16,0.03315833
+wind_speed,0.030286776
+temperature,0.020327296
+voltage_fluctuation_roll_std_4,0.0199751
+network_traffic_roll_std_4,0.016596481
